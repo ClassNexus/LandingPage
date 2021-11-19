@@ -467,3 +467,6 @@ img#mobilesito2{
     width: 100px;
     height: 100px;
 }
+a#linksito:hover{
+    background: transparent;
+}
